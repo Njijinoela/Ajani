@@ -1,0 +1,109 @@
+{
+  "legalTeam": [
+    {
+      "name": "IRENE AKOTH OTTO",
+      "image": "/IRENE.jpeg",
+      "description": [
+        "An Advocate of the High Court of Kenya with over 5 years' qualification experience.",
+        "She has a keen interest in the development of law and has demonstrable excellence in her work.",
+        "She employs a true global approach and is the head of the legal department at Ajani Centre."
+      ]
+    },
+    {
+      "name": "NAIMA RAJAB",
+      "image": "/NAIMA.jpeg",
+      "description": [
+        "An Advocate of the High Court of Kenya with over 6 years' experience in the Human Rights space.",
+        "Naima is also a mediator at Nimraj consultancy.",
+        "She is passionate about legal empowerment and helps Kenyans use and shape the law through civic engagement and public participation."
+      ]
+    },
+    {
+      "name": "STACY MURUGI",
+      "image": "/STACY.jpeg",
+      "description": [
+        "An Advocate of the High Court of Kenya with over 5 years' experience in litigation and non-contentious practice.",
+        "She is a certified professional mediator and is very passionate about human rights, especially those of women and children.",
+        "She is also the Human Resource Manager at Ajani."
+      ]
+    },
+    {
+      "name": "PURITY WADEGU",
+      "image": "/PURITY.jpeg",
+      "description": [
+        "An Advocate of the High Court of Kenya with a Bachelor's degree of Law from Kenyatta University and a postgraduate diploma from the Kenya School of Law.",
+        "Purity has extensive knowledge and experience in litigation, human rights law, and activism.",
+        "She is also the Executive Director at Ajani."
+      ]
+    }
+  ],
+  "psychosocialTeam": [
+    {
+      "name": "OUMA SOROPHINA AKINYI",
+      "image": "/PHINA.jpeg",
+      "description": [
+        "A holder of a Bachelor's degreee in Counselling Psychology",
+        "Sorophina is a licensed counselor under the Kenya Counselling Psychologist Association(KCPA).",
+        "She currently volunteers and work with children by offering art and play therapywhile also offering tutoring services for them.",
+        "She is also the Head of the Counselling Department at Ajani Centre for Rights and Care."
+      ]
+    },
+    {
+      "name": "GLORIA KINYA MICHENI",
+      "image": "/images/mich.jpeg",
+      "description": [
+        "A counselling psychologist with a Bachelor's degree from the Catholic Univrsity of Eastern Africa",
+        "crrently pursuing her Masters in Management Organizational Deavelopment at the United States International University.",
+        "She is passionate about loss and grief counselling, drug and substance abuse counselling, psycho education and mentorship."
+      ]
+    },
+    {
+      "name": "ESTHER WANGU NGATIA",
+      "image": "/ESTHER.jpeg",
+      "description": [
+        "She is a counselling psychologist with a passion for supporting SGBV survivors.",
+        "She also plays a role i the communications department, leveraging expertise to raise awareness, advocate for change and empower the community.",
+        "She coes armed with empathy and communication skills to foster healing, resilence and understanding."
+      ]
+    },
+    {
+      "name": "STELLA",
+      "image": "/STELLA.jpeg",
+      "description": []
+    }
+  ],
+  "TeamPlayers": [
+    {
+      "name": "ZENA ABDULRAHMAN MUSA",
+      "image": "/ZENA.jpeg",
+      "description": [
+        "Zena is a skilled program officer with over 4 years experience in project management, community mobilization and advocacy",
+        "leadreship, training and capacity building, community outreach and paralegal work.",
+        "She is the Program officer at Ajani Centre."
+      ]
+    },
+    {
+      "name": "STEPHANIE ATIENO",
+      "image": "/STEPH.jpeg",
+      "description": [
+        "Stephanie holds a Diploma in mass communication attained from the Kenya Institute of Mass Communication.",
+        "She brings her wealth of experience in writing and research to the communications department and Ajani."
+      ]
+    },
+    {
+      "name": "MAKKA YUSUF",
+      "image": "/MAKKAH.jpeg",
+      "description": [
+        "She is a paralegal who works closely with the team in th legal department.",
+        "She has several years of experience as a sexual and gender based community paralegal."
+      ]
+    },
+    {
+      "name": "POLINE OTOO",
+      "image": "/POLINE.jpeg",
+      "description": [
+        "Poline is an accountant by profession and is the chief financial officer at Ajani Centre."
+      ]
+    }
+  ]
+}
