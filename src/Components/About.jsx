@@ -4,7 +4,6 @@ const About = () => {
   return (
     <div className="bg-cyan-900 py-12">
       <div className="max-w-7xl mx-auto px-4">
-        {/* WHO ARE WE? */}
         <div className="text-center">
           <h2 className="text-4xl font-bold text-orange-200 mb-8">
             WHO ARE WE?
@@ -28,7 +27,6 @@ const About = () => {
           </p>
         </div>
 
-        {/* LEGAL SUPPORT */}
         <section className="mt-16">
           <h2 className="text-3xl font-bold text-orange-200 mb-6 text-center">
             LEGAL SUPPORT SERVICES
@@ -54,7 +52,6 @@ const About = () => {
           </div>
         </section>
 
-        {/* PSYCHOSOCIAL SUPPORT */}
         <section className="mt-16">
           <h2 className="text-3xl font-bold text-orange-200 mb-6 text-center">
             PSYCHOSOCIAL SUPPORT SERVICES
