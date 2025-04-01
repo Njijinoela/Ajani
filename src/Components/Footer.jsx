@@ -19,6 +19,11 @@ const Footer = () => {
               </a>
             </li>
             <li>
+              <a href="/team" className="hover:text-blue-800">
+                Our Team
+              </a>
+            </li>
+            <li>
               <a href="/contact" className="hover:text-blue-800">
                 Contact Us
               </a>
