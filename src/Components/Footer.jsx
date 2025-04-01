@@ -14,7 +14,10 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="/about" className="hover:text-blue-800">
+              <a
+                href="https://ajani.vercel.app/about"
+                className="hover:text-blue-800"
+              >
                 About Us
               </a>
             </li>
