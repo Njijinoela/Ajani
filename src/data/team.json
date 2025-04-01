@@ -69,7 +69,13 @@
     {
       "name": "STELLA",
       "image": "/STELLA.jpeg",
-      "description": []
+      "description": [
+        "Stella is a dedicated counselling psychologist and a passionate advocate for girls' rights.",
+        "With a deep understanding of the psychological challenges faced by young women, she channels her expertise into empowering girls to navigate societal barriers and cultivate resilience.",
+        "She works tirelessly to create safe spaces where girls can access vital emotional support, develop self-esteem, and assert their rights.",
+        "Stella's commitment extends beyond individual counselling, as she actively contributes to initiatives that promote education, combat gender-based violence, and foster a supportive environment where girls can thrive.",
+        "Her holistic approach, combining psychological insight with advocacy, aims to equip girls with the tools they need to achieve their full potential and build a more equitable future."
+      ]
     }
   ],
   "TeamPlayers": [
