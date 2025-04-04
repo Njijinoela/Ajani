@@ -8,6 +8,9 @@ import Footer from "./Components/Footer";
 import About from "./Components/About";
 import Team from "./Components/Team";
 import Contact from "./Components/Contact";
+import Articles from "./Pages/Articles";
+import ArticleDetail from "./Pages/ArticleDetail";
+import Admin from "./Pages/Admin";
 
 function App() {
   return (
@@ -29,6 +32,9 @@ function App() {
             <Route path="/about" element={<About />} />
             <Route path="/team" element={<Team />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/articles" element={<Articles />} />
+            <Route path="/articles/:id" element={<ArticleDetail />} />
+            <Route path="/admin" element={<Admin />} />
           </Routes>
         </main>
         <Footer />

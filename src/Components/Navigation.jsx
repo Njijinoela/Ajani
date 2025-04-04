@@ -60,6 +60,15 @@ const Navigation = () => {
             </li>
             <li>
               <Link
+                to="/articles"
+                className="text-primary hover:underline font-bold text-lg"
+                onClick={() => setIsOpen(false)}
+              >
+                ARTICLES
+              </Link>
+            </li>
+            <li>
+              <Link
                 to="/contact"
                 className="text-primary hover:underline font-bold text-lg"
                 onClick={() => setIsOpen(false)}
@@ -93,6 +102,15 @@ const Navigation = () => {
               className="text-primary hover:underline font-bold text-lg"
             >
               TEAM
+            </Link>
+          </li>
+          <li>
+            <Link
+              to="/articles"
+              className="text-primary hover:underline font-bold text-lg"
+              onClick={() => setIsOpen(false)}
+            >
+              ARTICLES
             </Link>
           </li>
           <li>

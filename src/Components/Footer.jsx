@@ -29,6 +29,11 @@ const Footer = () => {
               </a>
             </li>
             <li>
+              <a href="/articles" className="hover:text-blue-800">
+                Articles
+              </a>
+            </li>
+            <li>
               <a href="/contact" className="hover:text-blue-800">
                 Donate
               </a>
@@ -48,7 +53,10 @@ const Footer = () => {
             <a href="https://www.linkedin.com" className="hover:text-blue-800">
               <Linkedin />
             </a>
-            <a href="https://www.instagram.com" className="hover:text-blue-800">
+            <a
+              href="https://www.instagram.com/ajanicenter?utm_source=qr&igsh=bGh2dHR6OWU4MGps"
+              className="hover:text-blue-800"
+            >
               <Instagram />
             </a>
           </div>
