@@ -35,9 +35,17 @@
         "Purity has extensive knowledge and experience in litigation, human rights law, and activism.",
         "She is also the Executive Director at Ajani."
       ]
+    },
+    {
+      "name": "MAKKA YUSUF",
+      "image": "/MAKKAH.jpeg",
+      "description": [
+        "She is a paralegal who works closely with the team in th legal department.",
+        "She has several years of experience as a sexual and gender based community paralegal."
+      ]
     }
   ],
-  "psychosocialTeam": [
+  "counsellingTeam": [
     {
       "name": "OUMA SOROPHINA AKINYI",
       "image": "/PHINA.jpeg",
@@ -78,7 +86,7 @@
       ]
     }
   ],
-  "TeamPlayers": [
+  "supportTeam": [
     {
       "name": "ZENA ABDULRAHMAN MUSA",
       "image": "/ZENA.jpeg",
@@ -86,14 +94,6 @@
         "Zena is a skilled program officer with over 4 years experience in project management, community mobilization and advocacy",
         "leadreship, training and capacity building, community outreach and paralegal work.",
         "She is the Program officer at Ajani Centre."
-      ]
-    },
-    {
-      "name": "MAKKA YUSUF",
-      "image": "/MAKKAH.jpeg",
-      "description": [
-        "She is a paralegal who works closely with the team in th legal department.",
-        "She has several years of experience as a sexual and gender based community paralegal."
       ]
     },
     {

@@ -3,11 +3,11 @@ import teamData from "../data/team.json";
 
 const Team = () => {
   const [currentPage, setCurrentPage] = useState(0);
-  const sections = ["Legal Team", "Psychosocial Team", "Team Players"];
+  const sections = ["Legal Team", "Counselling Team", "Support Team"];
   const teams = [
     teamData.legalTeam,
-    teamData.psychosocialTeam,
-    teamData.TeamPlayers,
+    teamData.counsellingTeam,
+    teamData.supportTeam,
   ];
 
   return (

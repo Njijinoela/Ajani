@@ -91,7 +91,7 @@ const Contact = () => {
                 href="mailto:ajanicentre@gmail.com"
                 className="hover:text-blue-800"
               >
-                ajanicentre@gmail.com
+                ajanicenter@gmail.com
               </a>
             </div>
             <div className="flex items-center mb-3">
