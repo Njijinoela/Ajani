@@ -7,11 +7,14 @@ const Admin = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    const response = await fetch("http://localhost:5000/articles", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ title, summary, content }),
-    });
+    const response = await fetch(
+      "https://ajani-backend-5oot.onrender.com/articles",
+      {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ title, summary, content }),
+      }
+    );
     const result = await response.json();
     alert(result.message);
   };

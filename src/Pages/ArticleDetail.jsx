@@ -8,7 +8,7 @@ const ArticleDetail = () => {
   const [contentPerPage] = useState(2000);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/articles/${id}`)
+    fetch(`https://ajani-backend-5oot.onrender.com/articles/${id}`)
       .then((res) => res.json())
       .then((data) => setArticle(data))
       .catch((err) => console.error("Error fetching article:", err));

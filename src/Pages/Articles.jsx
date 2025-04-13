@@ -6,7 +6,7 @@ const Articles = () => {
   const [articles, setArticles] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/articles")
+    fetch("https://ajani-backend-5oot.onrender.com/articles")
       .then((res) => res.json())
       .then((data) => setArticles(data))
       .catch((err) => console.error("Error fetching articles:", err));
