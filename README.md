@@ -134,7 +134,7 @@ A React-based website for Ajani Center for Rights & Care, a Kenyan organization 
 
 The project is configured for easy deployment to:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://ajani.vercel.app/)
+[[Deploy with Vercel](https://vercel.com/button)](https://ajani.vercel.app/)
 
 ## Contributing
 
@@ -149,15 +149,6 @@ We welcome contributions! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-**Ajani Center for Rights & Care**  
-📧 ajanicentre@gmail.com  
-📞 +254 710 64 60 50  
-📍 Kajiado, Kenya
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ajanicenter)
 
 ```
 
